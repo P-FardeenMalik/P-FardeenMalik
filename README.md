@@ -103,12 +103,11 @@
 
 ###
 
-<h2 align="left">UI/UX and Tools</h2>
+<h2 align="left">Tools</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
@@ -142,7 +141,7 @@
 
 ###
 
-<p align="left">🔭 I'm currently focusing on advanced web development techniques.<br>🌱 I'm delving into data analytics and database management to strengthen my grasp of data-driven decision-making.<br>💻 I'm advancing my coding skills in Python, C, and C++ to tackle more complex programming challenges.<br>🎨 I'm expanding my proficiency with UI/UX design tools.</p>
+<p align="left">🔭 I'm currently focusing on advanced web development techniques.<br>🌱 I'm delving into data analytics and database management to strengthen my grasp of data-driven decision-making.<br>💻 I'm advancing my coding skills in Python, C, and C++ to tackle more complex programming challenges.</p>
 
 ###
 
