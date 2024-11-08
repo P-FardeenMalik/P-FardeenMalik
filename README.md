@@ -77,6 +77,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img src="https://img.icons8.com/?size=100&id=e6uRfPIDgoXi&format=png&color=000000" height="30" alt="aws" />
   <img width="12" />
 
 </div>
