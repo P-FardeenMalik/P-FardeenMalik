@@ -140,7 +140,7 @@
 
 ###
 
-<p align="left">🌐 Explore my projects at https://fardeenmalik-portfolio.netlify.app/<br>👯 I'm open to collaborating on projects involving web development, AI-driven solutions, and innovative applications of technology. If you have a project aligning with my skills and interests, let's bring our ideas to life.</p>
+<p align="left">🌐 Explore my projects at https://fardeenmalik.me/<br>👯 I'm open to collaborating on projects involving web development, AI-driven solutions, and innovative applications of technology. If you have a project aligning with my skills and interests, let's bring our ideas to life.</p>
 
 ###
 ![LeetCode Stats](https://leetcard.jacoblin.cool/FardeenMalik?theme=dark&font=Russo%20One&ext=heatmap)
