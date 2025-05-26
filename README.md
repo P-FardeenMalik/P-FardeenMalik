@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Software Engineer | Web Developer | AI-ML Enthusiast</h3>
+<h3 align="center">Software Engineer | Web Developer</h3>
 
 ###
 
@@ -13,7 +13,7 @@
 ###
 
 
-<p align="left">I am a passionate Software Engineer, Web Developer, and AI-ML-DS Enthusiast currently on a journey of continuous learning and exploration. My academic background is in Computer Science and Engineering, and I thrive on expanding my expertise in various domains.</p>
+<p align="left">I am a passionate Software Engineer, Web Developer currently on a journey of continuous learning and exploration. My academic background is in Computer Science and Engineering, and I thrive on expanding my expertise in various domains.</p>
 
 
 ###
