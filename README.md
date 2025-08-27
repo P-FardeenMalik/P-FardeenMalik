@@ -133,7 +133,7 @@
 
 ###
 
-<p align="left">🔭 I'm currently focusing on advanced web development techniques.<br>🌱 I'm delving into data analytics and database management to strengthen my grasp of data-driven decision-making.<br>💻 I'm advancing my coding skills in Python, C, and C++ to tackle more complex programming challenges.</p>
+<p align="left">🔭 I'm currently focusing on advanced web development techniques.<br>🌱 I'm delving into data analytics and database management to strengthen my grasp of data-driven decision-making.<br>💻 I'm advancing my coding skills in Python, Java to tackle more complex programming challenges.</p>
 
 ###
 
